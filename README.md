@@ -82,7 +82,8 @@ The below file is in Standard storage class
 
 The below file is now updated to **Glacier Flexible Retrieval (formerly Glacier)** after Lambda function trigger along with the Log file
 
-![alt text](output/file_output.png)
+<img width="1559" height="359" alt="image" src="https://github.com/user-attachments/assets/6f651abf-5a5f-423a-a5e8-3f406542fa71" />
+
 
 ### Cloud Watch Log
 
@@ -91,8 +92,6 @@ The below file is now updated to **Glacier Flexible Retrieval (formerly Glacier)
 Cloud watch log output of each of the trigger of the lambda function. This is successful archival log format when the files is archived.
 
 <img width="1568" height="600" alt="image" src="https://github.com/user-attachments/assets/879f3289-124e-481a-aceb-fae9ea3df87c" />
-
-![alt text](output/cloud_watch_output.png)
 
 
 **No Eligible items for Arichival**
