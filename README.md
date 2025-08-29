@@ -75,7 +75,7 @@ cron(0 0 * * ? *)
 
 The below file is in Standard storage class
 
-![alt text](output/standard_file.png)
+<img width="1567" height="329" alt="image" src="https://github.com/user-attachments/assets/a93d73ab-e388-4917-8a44-8ab02906448f" />
 
 
 ### S3 Bucket - File Status updated to Glacier Flexible Retrieval (formerly Glacier)
