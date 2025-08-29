@@ -97,4 +97,6 @@ Cloud watch log output of each of the trigger of the lambda function. This is su
 
 Cloud watch log output of each of the trigger of the lambda function. This is successful archival log format when there is no files eligible for archival. 
 
+<img width="1193" height="413" alt="image" src="https://github.com/user-attachments/assets/4606ed8e-88cc-42a9-8c79-bdfc6e9c4228" />
+
 ![alt text](output/cloud_watch_output_no_items.png)
