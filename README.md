@@ -94,7 +94,7 @@ Cloud watch log output of each of the trigger of the lambda function. This is su
 <img width="1950" height="843" alt="Pic-3" src="https://github.com/user-attachments/assets/4fd1dfb0-0497-4ec5-96d0-0953c29a8306" />
 
 
-**No Eligible items for Arichival**
+**No Eligible items for Archival**
 
 Cloud watch log output of each of the trigger of the lambda function. This is successful archival log format when there is no files eligible for archival. 
 
