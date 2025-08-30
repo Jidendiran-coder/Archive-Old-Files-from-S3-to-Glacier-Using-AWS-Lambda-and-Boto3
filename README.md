@@ -75,14 +75,14 @@ cron(0 0 * * ? *)
 
 The below file is in Standard storage class
 
-<img width="1567" height="329" alt="image" src="https://github.com/user-attachments/assets/a93d73ab-e388-4917-8a44-8ab02906448f" />
+<img width="2328" height="648" alt="pic-1" src="https://github.com/user-attachments/assets/96941a95-f8c9-4767-84ed-cc42b345d712" />
 
 
 ### S3 Bucket - File Status updated to Glacier Flexible Retrieval (formerly Glacier)
 
 The below file is now updated to **Glacier Flexible Retrieval (formerly Glacier)** after Lambda function trigger along with the Log file
 
-<img width="1559" height="359" alt="image" src="https://github.com/user-attachments/assets/6f651abf-5a5f-423a-a5e8-3f406542fa71" />
+<img width="2350" height="651" alt="Pic-2" src="https://github.com/user-attachments/assets/ba0730e2-bed5-4726-9ba2-415908803a94" />
 
 
 ### Cloud Watch Log
@@ -91,12 +91,13 @@ The below file is now updated to **Glacier Flexible Retrieval (formerly Glacier)
 
 Cloud watch log output of each of the trigger of the lambda function. This is successful archival log format when the files is archived.
 
-<img width="1568" height="600" alt="image" src="https://github.com/user-attachments/assets/879f3289-124e-481a-aceb-fae9ea3df87c" />
+<img width="1950" height="843" alt="Pic-3" src="https://github.com/user-attachments/assets/4fd1dfb0-0497-4ec5-96d0-0953c29a8306" />
 
 
 **No Eligible items for Arichival**
 
 Cloud watch log output of each of the trigger of the lambda function. This is successful archival log format when there is no files eligible for archival. 
 
-<img width="1193" height="413" alt="image" src="https://github.com/user-attachments/assets/4606ed8e-88cc-42a9-8c79-bdfc6e9c4228" />
+<img width="1932" height="724" alt="Pic-4" src="https://github.com/user-attachments/assets/57c2e908-58c5-4f53-99f5-be705d4627c7" />
+
 
